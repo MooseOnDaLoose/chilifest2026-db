@@ -5,5 +5,7 @@
     <file url="file://$PROJECT_DIR$/queries/Query_1.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/queries/Query_2.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/queries/Query_3.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/get-item_name-from-item_tab_json.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/populate-order_pickup.sql" dialect="PostgreSQL" />
   </component>
 </project>
